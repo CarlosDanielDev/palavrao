@@ -1,1 +1,1 @@
-// Core utilities — placeholder for future implementation
+export { levenshtein, normalizedLevenshtein } from "./levenshtein.js";
