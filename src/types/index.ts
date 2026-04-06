@@ -1,3 +1,5 @@
+export type WordList = readonly string[];
+
 export interface FilterOptions {
   /** Replace matched words with a placeholder character */
   replacementChar?: string;
